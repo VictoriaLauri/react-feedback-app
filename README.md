@@ -24,7 +24,7 @@ This project utilised most of the React fundamentals, including:
 
 ## Project screenshot
 
-| ![Screenshot](assets/feedback-app-screenshot.jpg) |
+| ![Screenshot](assets/feedback_app_screenshot.jpg) |
 | ------------------------------------------------- |
 
 ## Project run-through
